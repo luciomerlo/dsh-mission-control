@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Mission Control",
+    "description": "Adds a Mission Control entry to the left sidebar that opens a dashboard of every session DeepSeek Harness lists. Each card shows the session title, the selected model, its execution state (working, waiting for you, completed, error, or idle), a per-task timer, the number of tool calls and completed turns folded from the session's own event log, its pending work, its tokens, and — once you enter token prices in Display settings — an estimated cost. A card opens its session in the Conversation; the state filters, the runtime and pending-task sorting, and the recent-activity feed come from the same data, and an alert highlights the sessions waiting for your approval, answer, or plan review. The panel ships in English and Spanish with an EN/ES toggle at the top, and everything updates from the Harness session registry and its event streams, so no prompt is sent and no progress is simulated. Counters exist for sessions that are live in the Host; a session that is only on disk shows its durable title, model, and tokens with the counters unavailable. Display preferences and the panel language are stored in this browser. Turning the plugin off removes the sidebar entry and the counters.",
+    "detail": "docs/DETAIL.md"
+  }
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" role="img" aria-label="Mission Control">
+  <circle cx="18" cy="18" r="10" fill="none" stroke="#2f7fd0" stroke-width="2" opacity="0.5"/>
+  <path d="M18 18 L25.2 10.8" stroke="#2f7fd0" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="18" cy="18" r="2.8" fill="#2f7fd0"/>
+  <circle cx="22.8" cy="22" r="1.8" fill="#e0a33a"/>
+</svg>
